@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.4.16",
+    "fund": "^1.0.0",
+    "node-sass": "^9.0.0",
+    "npm": "^10.2.2",
+    "npm-run-all": "^4.1.5",
+    "postcss-cli": "^10.1.0"
+  }
+}
